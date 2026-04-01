@@ -1,0 +1,31 @@
+.fondo-claro {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.titulo-rojo {
+    color: red;
+}
+
+.justificado {
+    text-align: justify;
+    line-height: 1.6;
+}
+
+.imagen-principal {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+
+article {
+    background-color: white;
+    border-radius: 10px;
+}
+
+aside {
+    border-left: 5px solid #2c3e50;
+}
