@@ -8,9 +8,11 @@ Este proyecto consiste en una página web informativa sobre el tinnitus, donde s
 
 ## 🚀 Tecnologías utilizadas
 
+
 - HTML5
 - CSS3
 - Bootstrap
+- JavaScript
 
 ## 📁 Estructura del proyecto
 
